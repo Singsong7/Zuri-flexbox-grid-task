@@ -1,8 +1,16 @@
+@media screen and (min-width : 320px) { [class*="full"] {width: 100%;}
+  
+}
+@media screen and (max-width : 1440px) { [class*="full"] {width: 100%;}
+  
+}
+
 * {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
 }
+
 
 body {
   background-color: hsl(0, 0%, 95%);
