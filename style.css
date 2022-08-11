@@ -40,6 +40,8 @@ main {
   background-color: hsl(31, 77%, 52%);
   padding: 2em;
   width: auto;
+  /*border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;*/
 }
 
 .suv {
@@ -52,6 +54,8 @@ main {
   background-color: hsl(179, 100%, 13%);
   padding: 2em;
   width: auto;
+ /* border-top-right-radius: 5px;
+  border-bottom-right-radius:5px;*/
 }
 
 h2 {
